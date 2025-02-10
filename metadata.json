@@ -1,13 +1,13 @@
 {
   "name": "Rust in Peace",
-  "symbol": "rustinpce",
-  "description": "Birth from Rust and C fight of Linus Torvalds with the world",
+  "symbol": "KERNDRAMA",
+  "description": "born from chaos of Linux's Rust vs.C civil war - wher code debates turn into social media meltdowns",
   "image": "https://e7.pngegg.com/pngimages/438/887/png-clipart-linus-torvalds-linux-kernel-gnu-linux-history-of-linux-computer-software-others-glasses-kernel-thumbnail.png",
   "decimals": 9,
   "extensions": {
-    "website": "test",
-    "twitter": "asd",
-    "telegram": "hah"
+    "website": "https://www.reddit.com/r/linux/comments/1ijxber/linus_torvalds_take_on_the_latest_rustkernel_drama/",
+    "twitter": "https://x.com/search?q=linux%20kernel%20drama&src=recent_search_click",
+    "telegram": ""
   }
 }
 
